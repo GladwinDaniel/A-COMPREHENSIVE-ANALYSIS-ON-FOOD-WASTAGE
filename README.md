@@ -1,3 +1,4 @@
+# Exploratory-Data-Analysis-in-Food-Waste-Prediction
 A Comprehensive Analysis of Global Food Wastage (SDG 12)
 This project presents an in-depth data-driven exploration of global food wastage patterns, supporting the United Nations Sustainable Development Goal 12: Responsible Consumption and Production. Using a rich dataset covering 214 countries, we analyze food waste across households, retail, and food service sectors to uncover regional disparities, inefficiencies, and actionable strategies for waste reduction.
 
@@ -22,5 +23,5 @@ Visualizations and charts for data exploration and model evaluation
 Architecture diagram and methodology overview
 
 Dataset description and references
-# Exploratory-Data-Analysis-in-Food-Waste-Prediction
+# Working Code
 https://colab.research.google.com/drive/1jUfWBVDGJJP4Srb5MLvwu3z1rPJEWqQp?usp=sharing
